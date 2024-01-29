@@ -1,0 +1,69 @@
+body {
+    font-family: 'Poiret One', sans-serif;
+    background-color: #0000ff23;
+}
+
+p {
+    line-height: 1.5;
+}
+
+main {
+    width: 800px;
+    background-color: #f4f4f7;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+h1 {
+    size: 3rem;
+    text-align: center;
+}
+
+.chapo {
+    size: 1.5rem;
+}
+
+.ousmane1 {
+    float: left;
+    margin-right: 15px;
+}
+
+.ousmane2 {
+    max-width: 100%;
+}
+
+figcaption {
+    color: #5c5c5c;
+}
+
+.hdp {
+    text-align: right;
+}
+
+a {
+    color: #015EFF;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.diptyk {
+    background-color: #015EFF;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.8s ease;
+}
+
+.diptyk:hover{
+    background-color: white;
+    border: solid 2px #015EFF;
+    color: #015EFF;
+    text-decoration: none;
+}
